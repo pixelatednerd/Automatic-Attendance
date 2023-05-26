@@ -5,8 +5,13 @@ AI based system for attendance marking in colleges and schools for simplifying t
 ## Getting started
 ### Step 1: Clone the Repository to the local system using the below command
 ```
-git clone https://github.com/pixelatednerd/Smart-Attendance-System.git
+git clone https://github.com/pixelatednerd/Automatic-Attendance.git
 ```
+Add folders with the following names to the main folder:
+- attendance
+- recordings
+- snapshots
+- students
 
 ### Step 2: Install Python and pip (if it is not available in your system)
 In order to run this script on your local system, you need to have Python and pip installed on your system. This code is for Windows based systems. You can modify it for using it on Linux based systems. 
